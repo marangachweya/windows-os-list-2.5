@@ -1,0 +1,20 @@
+body{
+    background-image:linear-gradient(to bottom, #0005fa,#19e88f);
+    color:white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+th,td{
+    border:3px solid white;
+}
+.link_unused{
+    color:blue;
+    text-decoration: underline;
+}
+.link_used{
+    color:purple;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
